@@ -4,7 +4,7 @@ rfpimentel@outlook.com
 
 (81) 99869-6499
 
- [https://www.linkedin.com/in/rafapimentel]()
+ [https://www.linkedin.com/in/rafapimentel](https://www.linkedin.com/in/rafapimentel)
 
 Recife/PE
 
@@ -12,9 +12,7 @@ Recife/PE
 
 
 
-##Objetivo
-
----
+## Objetivo
 
 Desenvolvedor de Sistemas Junior
 
@@ -23,8 +21,6 @@ Desenvolvedor de Sistemas Junior
 
 
 ## Experiência
-
-----
 
 **Jul/12 - Jun/20** | Coordenador de Relações Governamentais (Pearson)
 
@@ -42,9 +38,7 @@ Desenvolvedor de Sistemas Junior
 
 
 
-##Formação
-
-----
+## Formação
 
 **Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (Ago/20 - Cursando)
 
@@ -60,9 +54,7 @@ Desenvolvedor de Sistemas Junior
 
 
 
-##Cursos Complementares
-
-----
+## Cursos Complementares
 
 Fundamentos de Arquiteturas de Sistemas - Digital Innovation One (2020)
 
@@ -84,9 +76,7 @@ Teste de Software - Qualiti Software Processes (2012)
 
 
 
-##Idiomas
-
-----
+## Idiomas
 
 **Inglês - Fluente**
 
@@ -104,9 +94,7 @@ Pantoufle Online - 2020
 
 
 
-##Intercâmbios Culturais
-
-----
+## Intercâmbios Culturais
 
 Canadá (2011)
 
