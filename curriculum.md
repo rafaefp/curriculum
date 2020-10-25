@@ -4,13 +4,15 @@ rfpimentel@outlook.com
 
 (81) 99869-6499
 
- [linkedin.com/in/rafapimentel]()
+ [https://www.linkedin.com/in/rafapimentel]()
 
 Recife/PE
 
 
 
-#### Objetivo
+
+
+##Objetivo
 
 ---
 
@@ -18,7 +20,9 @@ Desenvolvedor de Sistemas Junior
 
 
 
-#### Experiência
+
+
+## Experiência
 
 ----
 
@@ -36,7 +40,9 @@ Desenvolvedor de Sistemas Junior
 
 
 
-#### Formação
+
+
+##Formação
 
 ----
 
@@ -52,11 +58,13 @@ Desenvolvedor de Sistemas Junior
 
 
 
-#### Cursos Complementares
+
+
+##Cursos Complementares
 
 ----
 
-Fundamentos de Arquiteturas de Sistemas - UDEMY (2020)
+Fundamentos de Arquiteturas de Sistemas - Digital Innovation One (2020)
 
 Introdução ao Git e GitHub - Digital Innovation One (2020)
 
@@ -74,7 +82,9 @@ Teste de Software - Qualiti Software Processes (2012)
 
 
 
-#### Idiomas
+
+
+##Idiomas
 
 ----
 
@@ -92,7 +102,9 @@ Pantoufle Online - 2020
 
 
 
-#### Intercâmbios Culturais
+
+
+##Intercâmbios Culturais
 
 ----
 
