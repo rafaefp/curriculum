@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Desenvolvimento de Aplicações com .NET - Digital Innovation One (2020)
+
 Fundamentos de Arquiteturas de Sistemas - Digital Innovation One (2020)
 
 Introdução ao Git e GitHub - Digital Innovation One (2020)
