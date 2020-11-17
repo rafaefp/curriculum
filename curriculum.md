@@ -22,9 +22,9 @@ Desenvolvedor de Sistemas Junior
 
 ## Experiência
 
-**Jul/12 - Jun/20** | Coordenador de Relações Governamentais (Pearson)
+**Jul/12 - Jun/20** | Consultor de Relações Governamentais (Pearson)
 
-**Abr/11 - Jul/12** | Coordenador Pedagógico (UNS Idiomas)
+**Abr/11 - Jul/12** | Consultor Pedagógico (UNS Idiomas)
 
 **Set/05 - Jan/08** | Analista de Suporte Técnico Pleno (Hotlink Internet)
 
@@ -56,7 +56,13 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Introdução a Criação de Websites com HTML5 e CSS3 - Digital Innovation One (2020)
+
+Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL - Digital Innovation One (2020)
+
 Desenvolvimento de Aplicações com .NET - Digital Innovation One (2020)
+
+Primeiros Passos com .NET + C# - Digital Innovation One (2020)
 
 Fundamentos de Arquiteturas de Sistemas - Digital Innovation One (2020)
 
