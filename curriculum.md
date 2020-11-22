@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Programação para Internet com Javascript - Digital Innovation One (2020)
+
 Introdução a Criação de Websites com HTML5 e CSS3 - Digital Innovation One (2020)
 
 Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL - Digital Innovation One (2020)
