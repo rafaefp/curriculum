@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Javascript ES6 Essencial - Digital Innovation One (2020)
+
 Programação para Internet com Javascript - Digital Innovation One (2020)
 
 Introdução a Criação de Websites com HTML5 e CSS3 - Digital Innovation One (2020)
