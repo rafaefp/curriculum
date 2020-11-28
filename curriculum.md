@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Orientação a Objetos em .NET - Digital Innovation One (2020)
+
 Javascript ES6 Essencial - Digital Innovation One (2020)
 
 Programação para Internet com Javascript - Digital Innovation One (2020)
@@ -92,7 +94,7 @@ Teste de Software - Qualiti Software Processes (2012)
 
 **Inglês - Fluente**
 
-Hansa Language Centre (Toronto/CAN) - 2011
+Hansa Language Centre (Toronto/CAN) - 2008/2011
 
 **Espanhol - Básico**
 
