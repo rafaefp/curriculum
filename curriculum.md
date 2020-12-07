@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Arquitetura de Sistemas Avançado - Digital Innovation One (2020)
+
 Orientação a Objetos em .NET - Digital Innovation One (2020)
 
 Javascript ES6 Essencial - Digital Innovation One (2020)
