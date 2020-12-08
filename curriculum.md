@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Configuração da arquitetura backend com .NET Core - Digital Innovation One (2020)
+
 Arquitetura de Sistemas Avançado - Digital Innovation One (2020)
 
 Orientação a Objetos em .NET - Digital Innovation One (2020)
