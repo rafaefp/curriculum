@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Cursos Complementares
 
+Projetos Ágeis com SCRUM - Digital Innovation One (2020)
+
 Configuração da arquitetura backend com .NET Core - Digital Innovation One (2020)
 
 Arquitetura de Sistemas Avançado - Digital Innovation One (2020)
