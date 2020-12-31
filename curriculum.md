@@ -64,6 +64,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Desenvolvimento Avançado com JavaScript ES6 - Digital Innovation One (2020)
+
 Projetos Ágeis com SCRUM - Digital Innovation One (2020)
 
 Configuração da arquitetura backend com .NET Core - Digital Innovation One (2020)
