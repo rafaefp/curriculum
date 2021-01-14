@@ -58,11 +58,15 @@ Desenvolvedor de Sistemas Junior
 
 Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
+GFT Start_Uni 2021 #1 - Digital Innovation One (2021)
+
 
 
 
 
 ## Cursos Complementares
+
+Desenvolvimento Básico em Java - Digital Innovation One (2021)
 
 Desenvolvimento Avançado com JavaScript ES6 - Digital Innovation One (2020)
 
