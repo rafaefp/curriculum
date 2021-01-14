@@ -58,7 +58,7 @@ Desenvolvedor de Sistemas Junior
 
 Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
-GFT Start_Uni 2021 #1 - Digital Innovation One (2021)
+GFT Start_Uni 2021 #1 (46h) - Digital Innovation One (2021)
 
 
 
