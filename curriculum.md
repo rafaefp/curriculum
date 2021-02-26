@@ -68,6 +68,8 @@ Programador de Software Iniciante (148h) - IGTI (2021)
 
 ## Cursos Complementares
 
+Dev Summit II - IGTI (2021)
+
 Desenvolvimento Básico em Java - Digital Innovation One (2021)
 
 Desenvolvimento Avançado com JavaScript ES6 - Digital Innovation One (2020)
