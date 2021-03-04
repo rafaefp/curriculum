@@ -56,17 +56,19 @@ Desenvolvedor de Sistemas Junior
 
 ## Bootcamps
 
-Decola Dev Avanade (85h) - Digital Innovation One (2020)
+Programador de Software Iniciante (148h) - IGTI (2021)
 
 GFT Start_Uni 2021 #1 (46h) - Digital Innovation One (2021)
 
-Programador de Software Iniciante (148h) - IGTI (2021)
+Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 
 
 
 ## Cursos Complementares
+
+C# - SoloLearn (2021)
 
 Dev Summit II - IGTI (2021)
 
