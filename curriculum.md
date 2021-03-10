@@ -14,7 +14,7 @@ Recife/PE
 
 ## Objetivo
 
-Desenvolvedor de Sistemas Junior
+Desenvolvedor de Sistemas
 
 
 
@@ -56,6 +56,8 @@ Desenvolvedor de Sistemas Junior
 
 ## Bootcamps
 
+Aceleração Global Dev #7 Avanade (10h) - Digital Innovation One (2021)
+
 Programador de Software Iniciante (148h) - IGTI (2021)
 
 GFT Start_Uni 2021 #1 (46h) - Digital Innovation One (2021)
@@ -67,6 +69,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Desafio Azure 5 Estrelas - TFTEC (2021)
 
 C# - SoloLearn (2021)
 
@@ -126,7 +130,7 @@ Hansa Language Centre (Toronto/CAN) - 2008/2011
 
 Instituto Cervantes - 2017
 
-**Francês - Básico**
+**Francês - Intermediário**
 
 Pantoufle Online - 2020
 
