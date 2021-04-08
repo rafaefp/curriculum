@@ -22,6 +22,8 @@ Desenvolvedor de Sistemas
 
 ## Experiência
 
+**Mar/21 - momento** | Associate Fullstack Developer (Avanade)
+
 **Jul/12 - Jun/20** | Consultor de Relações Governamentais (Pearson)
 
 **Abr/11 - Jul/12** | Consultor Pedagógico (UNS Idiomas)
@@ -40,9 +42,9 @@ Desenvolvedor de Sistemas
 
 ## Formação
 
-**Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (Ago/20 - Cursando)
-
 **Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (Jul/20 - Cursando)
+
+**Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (Ago/20 - Abr/21)
 
 **Educação Continuada:** Management of Information Systems - University of Toronto (2009)
 
@@ -69,6 +71,10 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Microsoft Azure Fundamentals AZ-900 - Pluralsight (2021)
+
+Curso Oficial AZ-900 - Ka Solution (2021)
 
 Desafio Azure 5 Estrelas - TFTEC (2021)
 
