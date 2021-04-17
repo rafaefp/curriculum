@@ -56,6 +56,16 @@ Desenvolvedor de Sistemas
 
 
 
+## Certificações
+
+Microsoft Certified Azure Fundamentals (2021) ![](C:\Users\RafaSilRafaMari\Desktop\microsoft-certified-azure-fundamentals.png)
+
+Microsoft Certified Professional (2007)
+
+
+
+
+
 ## Bootcamps
 
 Aceleração Global Dev #7 Avanade (10h) - Digital Innovation One (2021)
@@ -71,6 +81,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Microsoft Azure: The Big Picture - Pluralsight (2021)
 
 Microsoft Azure Fundamentals AZ-900 - Pluralsight (2021)
 
