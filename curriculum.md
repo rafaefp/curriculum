@@ -58,7 +58,7 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
-Microsoft Certified Azure Fundamentals (2021) ![](C:\Users\RafaSilRafaMari\Desktop\microsoft-certified-azure-fundamentals.png)
+Microsoft Certified Azure Fundamentals (2021) 
 
 Microsoft Certified Professional (2007)
 
