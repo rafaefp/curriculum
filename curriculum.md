@@ -58,6 +58,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Microsoft Certified 365 Fundamentals (2021)
+
 Microsoft Certified Azure Fundamentals (2021) 
 
 Microsoft Certified Professional (2007)
@@ -82,9 +84,11 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Path Microsoft 365 Fundamentals MS-900 - Pluralsight (2021)
+
 Microsoft Azure: The Big Picture - Pluralsight (2021)
 
-Microsoft Azure Fundamentals AZ-900 - Pluralsight (2021)
+Path Microsoft Azure Fundamentals AZ-900 - Pluralsight (2021)
 
 Curso Oficial AZ-900 - Ka Solution (2021)
 
