@@ -58,6 +58,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Scrum Foundation Professional Certificate (2021)
+
 Microsoft Certified 365 Fundamentals (2021)
 
 Microsoft Certified Azure Fundamentals (2021) 
@@ -69,6 +71,8 @@ Microsoft Certified Professional (2007)
 
 
 ## Bootcamps
+
+Arquiteto Cloud Computing (148h) - IGTI (2021)
 
 Aceleração Global Dev #7 Avanade (10h) - Digital Innovation One (2021)
 
