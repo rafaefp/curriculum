@@ -58,6 +58,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Microsoft Technology Associate: Introduction to Programming Using JavaScript (2021)
+
 Scrum Foundation Professional Certificate (2021)
 
 Microsoft Certified 365 Fundamentals (2021)
@@ -71,6 +73,8 @@ Microsoft Certified Professional (2007)
 
 
 ## Bootcamps
+
+Full-Stack Developer (126h) - Digital House (2021)
 
 Arquiteto Cloud Computing (148h) - IGTI (2021)
 
@@ -173,3 +177,11 @@ Turquia (2015)
 Israel (2015)
 
 África do Sul (2017)
+
+
+
+
+
+## Voluntariado
+
+Junior Achievement Brazil - Mentor (2021)
