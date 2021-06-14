@@ -58,13 +58,15 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Microsoft Certified: Power Platform Fundamentals (2021)
+
 Microsoft Technology Associate: Introduction to Programming Using JavaScript (2021)
 
 Scrum Foundation Professional Certificate (2021)
 
-Microsoft Certified 365 Fundamentals (2021)
+Microsoft 365 Certified: Fundamentals (2021)
 
-Microsoft Certified Azure Fundamentals (2021) 
+Microsoft Certified: Azure Fundamentals (2021) 
 
 Microsoft Certified Professional (2007)
 
