@@ -58,6 +58,10 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Microsoft Technology Associate: Database Fundamentals
+
+Microsoft Technology Associate: Software Development Fundamentals (2021)
+
 Microsoft Certified: Power Platform Fundamentals (2021)
 
 Microsoft Technology Associate: Introduction to Programming Using JavaScript (2021)
@@ -93,6 +97,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Path Developing Solutions for Microsoft Azure AZ-204 - Pluralsight (2021)
 
 Path Microsoft 365 Fundamentals MS-900 - Pluralsight (2021)
 
