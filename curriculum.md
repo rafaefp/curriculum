@@ -98,6 +98,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+ASP.NET MVC 5 Fundamentals - Pluralsight (2021)
+
 Path Developing Solutions for Microsoft Azure AZ-204 - Pluralsight (2021)
 
 Path Microsoft 365 Fundamentals MS-900 - Pluralsight (2021)
