@@ -58,6 +58,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Microsoft Certified: Azure Developer Associate
+
 Microsoft Technology Associate: Database Fundamentals
 
 Microsoft Technology Associate: Software Development Fundamentals (2021)
