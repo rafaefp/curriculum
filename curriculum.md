@@ -58,9 +58,11 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
-Microsoft Certified: Azure Developer Associate
+Microsoft Certified: Security, Compliance, and Identity Fundamentals (2021)
 
-Microsoft Technology Associate: Database Fundamentals
+Microsoft Certified: Azure Developer Associate (2021)
+
+Microsoft Technology Associate: Database Fundamentals (2021)
 
 Microsoft Technology Associate: Software Development Fundamentals (2021)
 
@@ -99,6 +101,10 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Comunicação e Oratória - Conquer (2021)
+
+Path Security, Compliance and Identity SC-900 - Pluralsight (2021)
 
 ASP.NET MVC 5 Fundamentals - Pluralsight (2021)
 
