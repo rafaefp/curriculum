@@ -58,6 +58,10 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+GitLab Certified Associate - GitLab (2021)
+
+Scrum Fundamentals Certified - SCRUMstudy (2021)
+
 Microsoft Certified: Security, Compliance, and Identity Fundamentals (2021)
 
 Microsoft Certified: Azure Developer Associate (2021)
@@ -70,7 +74,7 @@ Microsoft Certified: Power Platform Fundamentals (2021)
 
 Microsoft Technology Associate: Introduction to Programming Using JavaScript (2021)
 
-Scrum Foundation Professional Certificate (2021)
+Scrum Foundation Professional Certificate - Certiprof (2021)
 
 Microsoft 365 Certified: Fundamentals (2021)
 
