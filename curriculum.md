@@ -58,7 +58,7 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
-Microsoft Technology Associate: Programming Using HTML and CSS (2021)
+Microsoft Technology Associate: Introduction to Programming Using HTML and CSS (2021)
 
 GitLab Certified Associate - GitLab (2021)
 
