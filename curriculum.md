@@ -22,7 +22,7 @@ Desenvolvedor de Sistemas
 
 ## Experiência
 
-**Mar/21 - momento** | Associate Fullstack Developer (Avanade)
+**Mar/21 - momento** | Sr Associate Back-End Developer (Avanade)
 
 **Jul/12 - Jun/20** | Consultor de Relações Governamentais (Pearson)
 
@@ -42,7 +42,7 @@ Desenvolvedor de Sistemas
 
 ## Formação
 
-**Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (Jul/20 - Cursando)
+**Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (Jul/20 - Dez/21)
 
 **Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (Ago/20 - Abr/21)
 
@@ -57,6 +57,8 @@ Desenvolvedor de Sistemas
 
 
 ## Certificações
+
+Microsoft Certified: Azure Administrator Associate (2022)
 
 Microsoft Technology Associate: Introduction to Programming Using HTML and CSS (2021)
 
@@ -107,6 +109,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Azure - Programa de Certificação AZ-104 - TFTEC (2022)
 
 Comunicação e Oratória - Conquer (2021)
 
