@@ -22,7 +22,9 @@ Desenvolvedor de Sistemas
 
 ## Experiência
 
-**Mar/21 - momento** | Sr Associate Back-End Developer (Avanade)
+**Dez/21 - momento** | Sr Associate Back-End Developer (Avanade)
+
+**Mar/21 - Nov/21** | Associate Full-Stack Developer (Avanade)
 
 **Jul/12 - Jun/20** | Consultor de Relações Governamentais (Pearson)
 
@@ -42,9 +44,9 @@ Desenvolvedor de Sistemas
 
 ## Formação
 
-**Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (Jul/20 - Dez/21)
+**Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (2021)
 
-**Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (Ago/20 - Abr/21)
+**Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (2021)
 
 **Educação Continuada:** Management of Information Systems - University of Toronto (2009)
 
@@ -109,6 +111,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Iniciando com ASP.NET MVC 5 - desenvolvedor.io (2022)
 
 Azure - Programa de Certificação AZ-104 - TFTEC (2022)
 
