@@ -60,6 +60,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Microsoft Certified: Azure AI Fundamentals (2022)
+
 Microsoft Certified: Azure Administrator Associate (2022)
 
 Microsoft Technology Associate: Introduction to Programming Using HTML and CSS (2021)
