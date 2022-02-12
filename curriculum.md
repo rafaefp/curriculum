@@ -114,6 +114,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Leadership Communication - FIAP (2022)
+
 Iniciando com ASP.NET MVC 5 - desenvolvedor.io (2022)
 
 Azure - Programa de Certificação AZ-104 - TFTEC (2022)
