@@ -2,11 +2,11 @@
 
 rfpimentel@outlook.com
 
-(81) 99869-6499
+(11) 96426-3344
 
  [https://www.linkedin.com/in/rafapimentel](https://www.linkedin.com/in/rafapimentel)
 
-Recife/PE
+São Paulo/SP
 
 
 
@@ -59,6 +59,8 @@ Desenvolvedor de Sistemas
 
 
 ## Certificações
+
+Microsoft Certified: Azure Data Fundamentals (2022)
 
 Microsoft Certified: Azure AI Fundamentals (2022)
 
