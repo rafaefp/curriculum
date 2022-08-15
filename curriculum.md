@@ -136,6 +136,8 @@ Microsoft Azure: The Big Picture - Pluralsight (2021)
 
 Path Microsoft Azure Fundamentals AZ-900 - Pluralsight (2021)
 
+Consulting Excellence Fundamentals - IDEA9 (2021)
+
 Curso Oficial AZ-900 - Ka Solution (2021)
 
 Desafio Azure 5 Estrelas - TFTEC (2021)
