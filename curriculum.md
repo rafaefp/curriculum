@@ -22,7 +22,9 @@ Desenvolvedor de Sistemas
 
 ## Experiência
 
-**Dez/21 - momento** | Sr Associate Back-End Developer (Avanade)
+**Set/22 - momento** | Analyst Back-End Developer (Avanade)
+
+**Dez/21 - Ago/22** | Sr Associate Back-End Developer (Avanade)
 
 **Mar/21 - Nov/21** | Associate Full-Stack Developer (Avanade)
 
