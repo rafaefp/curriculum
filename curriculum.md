@@ -98,6 +98,8 @@ Microsoft Certified Professional (2007)
 
 ## Bootcamps
 
+Formação ASP.NET MVC 5 Expert (17h) - desenvolvedor.io (2022)
+
 Full-Stack Developer (126h) - Digital House (2021)
 
 Arquiteto Cloud Computing (148h) - IGTI (2021)
@@ -115,6 +117,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Dominando o ASP.NET MVC 5 - desenvolvedor.io (2022)
 
 Leadership Communication - FIAP (2022)
 
