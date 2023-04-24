@@ -62,6 +62,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Avanade Scrum Developer (2023)
+
 Microsoft Certified: Azure Data Fundamentals (2022)
 
 Microsoft Certified: Azure AI Fundamentals (2022)
