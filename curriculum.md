@@ -62,6 +62,8 @@ Desenvolvedor de Sistemas
 
 ## Certificações
 
+Argon Scrum Master Certified (2023)
+
 Avanade Scrum Developer (2023)
 
 Microsoft Certified: Azure Data Fundamentals (2022)
