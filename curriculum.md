@@ -124,6 +124,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Cultura e Liderança - G4 Educação (2023)
+
 Desenvolvimento SPA com Angular - desenvolvedor.io (2023)
 
 Dominando o ASP.NET MVC 5 - desenvolvedor.io (2022)
