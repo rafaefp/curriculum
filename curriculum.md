@@ -22,7 +22,7 @@ Desenvolvedor de Sistemas
 
 ## Experiência
 
-**Set/22 - momento** | Analyst Back-End Developer (Avanade)
+**Set/22 - momento** | Analyst Full-Stack Developer (Avanade)
 
 **Dez/21 - Ago/22** | Sr Associate Back-End Developer (Avanade)
 
@@ -46,6 +46,8 @@ Desenvolvedor de Sistemas
 
 ## Formação
 
+**Graduação**: Ciência da Computação - Faculdade das Américas (2025)
+
 **Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (2021)
 
 **Pós-Graduação:** Desenvolvimento de Sistemas com C# - Faculdade Unyleya (2021)
@@ -61,6 +63,8 @@ Desenvolvedor de Sistemas
 
 
 ## Certificações
+
+Green Software for Practitioners (LFC131) (2023)
 
 Argon Scrum Master Certified (2023)
 
