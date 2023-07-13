@@ -128,6 +128,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+OWASP - Avanade (2023)
+
 Cultura e Liderança - G4 Educação (2023)
 
 Desenvolvimento SPA com Angular - desenvolvedor.io (2023)
