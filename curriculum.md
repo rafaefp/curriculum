@@ -246,4 +246,6 @@ Israel (2015)
 
 ## Voluntariado
 
+Instituto Ser Mais - Mentor de Carreira (2023)
+
 Junior Achievement Brazil - Mentor (2021)
