@@ -128,6 +128,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Desenvolvimento Avançado em Angular - desenvolvedor.io (2023)
+
 ChatGPT Prompt Engineering for Developers - DeepLearning.AI (2023)
 
 Domine IA Generativa - Avanade (2023)
