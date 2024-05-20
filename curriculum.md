@@ -108,6 +108,8 @@ Microsoft Certified Professional (2007)
 
 ## Bootcamps
 
+Formação Front-End Angular Expert (27h) - desenvolvedor.io (2023)
+
 Formação ASP.NET MVC 5 Expert (17h) - desenvolvedor.io (2022)
 
 Full-Stack Developer (126h) - Digital House (2021)
@@ -127,6 +129,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Imersão Inteligência Artificial 2ª Edição - Alura/Google (2024)
 
 Desenvolvimento Avançado em Angular - desenvolvedor.io (2023)
 
