@@ -46,7 +46,7 @@ Desenvolvedor de Sistemas
 
 ## Formação
 
-**Graduação**: Ciência da Computação - Faculdade das Américas (2025)
+**Graduação**: Ciência da Computação - FAM (2025)
 
 **Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (2021)
 
