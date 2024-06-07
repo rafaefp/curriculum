@@ -130,6 +130,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+AI Applications and Prompt Engineering - edX (2024)
+
 Delivery Fundamentals - Avanade (2024)
 
 Jornada FullStack - BALTA.IO (2024)
