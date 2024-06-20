@@ -130,6 +130,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Python Básico - Avanade (2024)
+
 Imersão Definitiva: Inteligência Artificial - Faculdade XP Educação (2024)
 
 AI Applications and Prompt Engineering - edX (2024)
