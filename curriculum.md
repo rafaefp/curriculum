@@ -46,7 +46,7 @@ Desenvolvedor de Sistemas
 
 ## Formação
 
-**Graduação**: Ciência da Computação - FAM (2025)
+**Graduação**: Ciências da Computação - FAM (2025)
 
 **Graduação**: Análise e Desenvolvimento de Sistemas - Faculdade Joaquim Nabuco (2021)
 
@@ -129,6 +129,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+Python Best Practices for Code Quality - Pluralsight (2024)
 
 Python Básico - Avanade (2024)
 
