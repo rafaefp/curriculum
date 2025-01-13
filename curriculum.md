@@ -130,6 +130,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+Python 3: The Big Picture - Pluralsight (2025)
+
 Python Best Practices for Code Quality - Pluralsight (2024)
 
 Python Básico - Avanade (2024)
