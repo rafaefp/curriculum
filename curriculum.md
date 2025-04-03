@@ -14,7 +14,7 @@ São Paulo/SP
 
 ## Objetivo
 
-Desenvolvedor de Sistemas
+Software Engineer
 
 
 
@@ -129,6 +129,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 
 ## Cursos Complementares
+
+MongoDB for SQL Experts - MongoDB (2025)
 
 Python 3: The Big Picture - Pluralsight (2025)
 
