@@ -130,6 +130,8 @@ Decola Dev Avanade (85h) - Digital Innovation One (2020)
 
 ## Cursos Complementares
 
+AI Agents and Agentic AI with Python & Generative AI - Vanderbilt University - Coursera (2025)
+
 MongoDB Python Developer Path - MongoDB University (2025)
 
 Building GenAI Apps Learning Badge Path - MongoDB University (2025)
